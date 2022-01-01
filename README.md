@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Apoorv-Jha
-- 👀 I’m interested in python, flask , bootsrap, 
+- 👀 I’m interested in python, flask , bootsrap, etc. 
 - 🌱 I’m currently learning python🐍
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me mail me at apoorvjhaff@gmail.com
