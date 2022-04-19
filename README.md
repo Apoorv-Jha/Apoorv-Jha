@@ -7,7 +7,7 @@ App Developer , Web Developer , Coder and UI/UX designer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Apoorv Jha](https://apoorvjha.dorik.io/)
 * ✉️  You can contact me at [apoorvjhaff@gmail.com](mailto:apoorvjhaff@gmail.com)
-* 🚀  I'm currently working on [404 Page Not Found](http://https://xd.adobe.com/view/12e172ed-add3-49eb-ab0f-7f36f382228d-47b2/)
+* 🚀  I'm currently working on [404 Page Not Found](https://xd.adobe.com/view/12e172ed-add3-49eb-ab0f-7f36f382228d-47b2/)
 * 🧠  I'm learning web dev & app dev
 * 🤝  I'm open to collaborating on app dev , web dev and UI/UX design
 * ⚡  Technology is best when it brings people together.
