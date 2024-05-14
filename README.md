@@ -5,11 +5,10 @@ App Developer , Web Developer , Coder and UI/UX designer
 --------------------------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Apoorv Jha](https://apoorvjha.dorik.io/)
 * ✉️  You can contact me at [apoorvjhaff@gmail.com](mailto:apoorvjhaff@gmail.com)
 * 🚀  I'm currently working on [Python]
-* 🧠  I'm learning python & app dev
-* 🤝  I'm open to collaborating on a UI/UX design
+* 🧠  I'm learning backend and frontend programming languages
+* 🤝  I'm open to collaborating on a UI/UX design Projects
 * ⚡  Technology is best when it brings people together.
 
 <a href="https://www.github.com/Apoorv-Jha" target="_blank" rel="noreferrer"><img
